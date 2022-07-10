@@ -1,0 +1,11 @@
+SCALA
+•	Scala is a mixture of both object oriented and functional programming.
+•	Scala support operator overloading
+•	Any method or function present is Scala are treated like they are variable.
+•	Scala does not contain static keyword.
+
+JAVA
+•	Java is an object-oriented language.
+•	Java does not support operator overloading.
+•	Java treats functions as an object.
+•	Java contains static keyword.
